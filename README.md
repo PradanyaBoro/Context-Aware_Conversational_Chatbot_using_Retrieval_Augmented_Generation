@@ -15,7 +15,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using Goo
 - Evaluated both chains on four representative queries
 - Measured success rate, word count, response time, and performance improvements
 - Achieved a **100% success rate** in answering test queries
-- Reduced query processing time by **17.66%** compared to the baseline
+- Reduced query processing time by **22.26%** compared to the baseline
 
 ## How to Run
 1. Install dependencies:
